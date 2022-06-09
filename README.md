@@ -1,17 +1,9 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Auto Layout 
-
-## Our Goal
-
-At the moment, our app only looks good on the canvas dimension that we’ve selected. If you run the app on screens with different aspect ratios or try to turn it to landscape, the designs will look broken. 
-
-Auto Layout allows us to set rules as to how we want our views to be displayed. Because mobile screens have different resolutions and sizes, we need these rules to tell the iPhone/iPad how it should layout all the elements in the storyboard onto the display. These rules allow our UI elements to be resized and positioned so that no matter which screen they are displayed on, they always look as the designer intended.
-
 
 ## What you will create
 
-Although Dicee is already pretty dicey, we get into problems when we try to rotate the screen to landscape or if we have a screen size that is not the same as the canvas. In this module, we’ll learn how to fix this and make our apps look exactly the way we want.
+Here we have developed an Dice Rolling app.
+Although Dicee is already pretty dicey, we get into problems when we try to rotate the screen to landscape or if we have a screen size that is not the same as the canvas. So, we have also fixed this problem and made it using Auto Layout.
 
 ## What you will learn
 
@@ -23,9 +15,10 @@ Although Dicee is already pretty dicey, we get into problems when we try to rota
 * How to use Stack Views to create complex interfaces.
 
 
+<h2>OUR APP</h2>
 
+![Screenshot 2022-06-09 at 10 20 29 AM](https://user-images.githubusercontent.com/91361896/172767318-ab01595f-58d8-41f1-8795-047db47a7b55.png)
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+![Screenshot 2022-06-09 at 10 20 42 AM](https://user-images.githubusercontent.com/91361896/172767335-607d19c1-1786-4cba-8b43-c13fd4f6b2b3.png)
 
-![End Banner](Documentation/readme-end-banner.png)
-
+![Screenshot 2022-06-09 at 10 26 28 AM](https://user-images.githubusercontent.com/91361896/172767516-b2f69336-1da3-4ddd-a5ac-dd15ca6d36ba.png)
